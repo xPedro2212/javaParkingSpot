@@ -1,4 +1,4 @@
-package com.api.parking_control;
+package com.api.parkingcontrol;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
